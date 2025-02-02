@@ -26,6 +26,10 @@ div {
     padding: 10px;
 }
 
+select {
+    width: 150px;
+}
+
 footer {
     color: white;
     font-style: italic;
